@@ -14,7 +14,7 @@ terraform {
     # ⚠️ IMPORTANT: Use same bucket from 5.1 backend-setup
     # Run 'terraform output -raw state_bucket_name' in 5.1/backend-setup/ directory
     # Then update the bucket name below
-    bucket  = "terraform-state-demo-bucket-51362f55"
+    bucket  = "terraform-state-demo-bucket-9210b90e"
     key     = "mtu_5.2/dev/terraform.tfstate"
     region  = "us-east-1"
     encrypt = true
