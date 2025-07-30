@@ -19,7 +19,7 @@ output "environment_info" {
 }
 
 output "deployment_summary" {
-  description = "Summary of what was deployed"
+  description = "Summary of what was deployed."
   value = {
     resources_created = "1 S3 bucket"
     environment_type  = "Development"
