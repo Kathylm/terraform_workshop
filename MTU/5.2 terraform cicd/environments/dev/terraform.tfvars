@@ -5,4 +5,4 @@ aws_region = "us-east-1"
 
 # Project Configuration
 environment  = "dev"
-project_name = "terraform-cicd-demo"
+project_name = "terraform-cicd-demo-kathy"
